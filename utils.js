@@ -75,15 +75,15 @@ const Asks = [
           numPregunta: "6",
     content: "¿Cual de estos ejemplos es un uso cotidiano?",
     repuestas: {
-      respoUno: ["respuesta1", false, "but1"],
+      respoUno: ["ChatGPT", false, "but1"],
 
-      respoDos: ["respuesta2", true, "but2"],
+      respoDos: ["GPS", false, "but2"],
 
-      respoTres: ["respuesta3", false, "but3"],
+      respoTres: ["Redes sociales", false, "but3"],
 
-      respoCuatro: ["respuesta4", false, "but4"],
+      respoCuatro: ["Todas son correctas", true, "but4"],
     },
-    respoCorrecta: "but2"
+    respoCorrecta: "but4"
   },
 ];
 
