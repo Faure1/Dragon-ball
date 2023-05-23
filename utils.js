@@ -59,7 +59,8 @@ const Asks = [
     },
     respoCorrecta: "but2"
   },
-      numPregunta: "5",
+{
+    numPregunta: "5",
     content: "Los impactos de la IA...",
     repuestas: {
       respoUno: ["Falta de etica", false, "but1"],
@@ -72,6 +73,7 @@ const Asks = [
     },
     respoCorrecta: "but4"
   },
+  {
           numPregunta: "6",
     content: "¿Cual de estos ejemplos es un uso cotidiano?",
     repuestas: {
